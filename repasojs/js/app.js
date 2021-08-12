@@ -11,3 +11,4 @@ var aprendiendo; //Podemos iniciar variables sin obligacion de iniciarla con dat
 console.log(aprendiendo); //Vemos el contenido de nuestras variables.
 
 console.log(aprendiendo99);
+
